@@ -1,0 +1,127 @@
+{"tram-portfolio":{
+    "intro":{
+        "fullname": "Tram Nguyen Thi Thuy",
+        "dob": "OCtober 20th 1998",
+        "address": "Steniuksentie 28 A 16, 00320 Helsinki, Finland",
+        "phone": "(+358) 4578740543",
+        "gmail":" tramnguyen1601437@gmail.com",
+        "linkedin": " https://www.linkedin.com/in/tram-nguyen-5a6aab133/",
+        "github": "https://github.com/AsianTram",
+        "bio": "My goal for the near future is experiencing and being professional in many different programming languages and technologies. Thus I would like to be a Full-stack developer or in a position which is flexible for trying various roles. In order to achieve the goal, I have been learning and practicing projects at school as well as in my free time at home!"
+
+    },
+    "projects":[{
+        "name":"Todo App- Mern stack",
+        "photo":"todo-app-mern",
+        "organization": "Own project",
+        "year":"2019",
+        "technologies":"NodeJS, ReactJS, Redux, Bootstrap, CSS, Express, MongoDB, Mongoose, other NPM.",
+        "link": "https://github.com/AsianTram/TodoApp-Mern",
+        "gallery":"https://tramnguyen.herokuapp.com/galleries/todoapp-mern.html"
+    },
+    {
+        "name":"Sell Games 2020",
+        "photo":"sellgame-2020",
+        "organization": "LAMK project",
+        "year":"2019",
+        "technologies":"NodeJS, ReactJS, CSS, SCSS, Express, MongoDB, Mongoose, other NPM.",
+        "link": "https://github.com/tuanphanfi/realLifeITProject",
+        "gallery":"https://tramnguyen.herokuapp.com/galleries/sellgames2020.html"
+    }
+]},
+    "skills":[{
+        "name":"HTML/CSS",
+        "level":"Primary",
+        "desc":"I have used HTML/CSS in quite many projects to create UI."
+    },
+    {
+        "name":"Bootstrap",
+        "level":"Medium",
+        "desc":"I utilizes some bootstrap component in some projects to enhance visuality of UI."
+    },
+    {
+        "name":"React",
+        "level":"Primary",
+        "desc":"I currently focus on doing projects using MERN-stack (MongoDb, Express, React and NodeJS)."
+    },
+    {
+        "name":"NodeJS",
+        "level":"Primary",
+        "desc": "NodeJS is the goal in my near future as there are various languages and technologies built in this ecosystem"
+    },
+    {
+        "name":"SQL",
+        "level":"Primary",
+        "desc":"I have used MySQL as well as other similar database for my projects"
+    },
+    {
+        "name":"MongoDB",
+        "level":"Primary",
+        "desc":"When starting to learn NodeJS, I started to use MongoDB and Mongoose for my projects. Although, Mongodb is NoSQL, however, there are some similarities to MySQL."
+    },
+    {
+        "name":"Git",
+        "level":"Good",
+        "desc": "I and my team use GitHub and GitLab for team collaborating. I use Git Bash as my supporter to use those tools."
+    }
+
+],
+    "certificates":[{
+        "photo":"udemy-mern",
+        "name": "Udemy MERN Stack Front to Back",
+        "repo":"https://github.com/AsianTram/Mern-stack-udemy",
+        "link":" https://pacific-springs-47140.herokuapp.com/"
+    }],
+    "languages":[{
+        "photo": "english-icon",
+        "name":"English",
+        "level":"Fluent"
+    },
+    {
+        "photo": "vietnam-icon",
+        "name":"Vietnamese",
+        "level":"Native"
+    },
+    {
+        "photo": "finish-icon",
+        "name":"Finnish",
+        "level":"Basic"
+    },
+    {
+        "photo": "chinese-icon",
+        "name":"Chinese",
+        "level":"Basic"
+    }
+],
+    "educations":[{
+        "photo":"lamk-icon",
+        "name":"Lahti University of Applied Scieces",
+        "title": "Bachelor Degree in Business Information Technology"
+    },
+    {
+        "photo":"ltv-icon",
+        "name":"Luong The Vinh High School for the Gifted",
+        "title": "High School program"
+    }],
+    "works":[{
+        "photo":"sol-icon",
+        "name":"SOL Palvelut",
+        "desc": "Key responsibilities included keeping cleanliness of supermarket kitchen and service section"
+    },
+    {
+        "photo":"rtk-icon",
+        "name":"RTK Palvelut",
+        "desc": "Key responsibilities included keeping cleanliness of supermarkets, restaurants, etc."
+    },
+    {
+        "photo":"ilg-icon",
+        "name":"ILG Palvelut",
+        "desc": "Key responsibilities included keeping cleanliness of restaurants and a bar."
+    },
+    {
+        "photo":"ssm-icon",
+        "name":"Lahden Jakelut",
+        "desc": "Key responsibilities included folding newspapers and delivering them to households."
+    }]
+
+}
