@@ -63,7 +63,7 @@ margin: 6px 0;
   font-size: 20px;
   width: 100%;
   margin:0;
-  padding: 20px 30px;
+  padding: 20px 0px;
   background-color: #282120;
   color: #F8EFE4;
 }
@@ -79,7 +79,7 @@ margin: 6px 0;
 .intro{
   width: 65%;
   margin: auto;
-  padding: 20px 5px;
+  padding: 20px auto;
   padding-top: 50px;
   padding-bottom: 100px;
   color: #282120;
